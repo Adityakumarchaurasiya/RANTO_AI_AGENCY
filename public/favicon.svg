@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="20" fill="#0B0B0C"/>
+  <rect x="2" y="2" width="96" height="96" rx="18" fill="none" stroke="#262629" stroke-width="2"/>
+  
+  <!-- Sleek Minimal R Monogram with Connected AI Nodes -->
+  <path d="M30 28 H58 C68 28 74 34 74 42 C74 50 68 56 58 56 H30 V28 Z" fill="none" stroke="#F5F3EE" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 28 V72" stroke="#F5F3EE" stroke-width="6" stroke-linecap="round"/>
+  <path d="M48 56 L70 72" stroke="#C9A86A" stroke-width="6" stroke-linecap="round"/>
+  
+  <circle cx="70" cy="72" r="4" fill="#C9A86A"/>
+  <circle cx="74" cy="42" r="3" fill="#F5F3EE"/>
+</svg>
